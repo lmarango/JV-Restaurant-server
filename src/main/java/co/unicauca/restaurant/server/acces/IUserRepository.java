@@ -1,13 +1,12 @@
 package co.unicauca.restaurant.server.acces;
-
 import co.unicauca.restaurant.commons.domain.User;
 
 /**
  *
- * @author Luis Arango
+ * @author Usuario
  */
 public interface IUserRepository {
-    /**
+        /**
      * Metodo encargado de buscar un usuario
      * @param prmUserName userName a buscar
      * @return objeto de tipo User
